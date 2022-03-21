@@ -19,6 +19,7 @@ Please treat this as a social experiment where we can learn, experiment, build, 
 - Utility to NFT characters
 - Has an ERC-20 or ERC-1155
 - Buying, lending, staking, burning assets etc.
+- Cool down period after fighting to heal
 - Skills tree like an RPG
 - Fighthing mechanism like [Sifu](https://www.sifugame.com/) or if too hard, just RPG.
 - Allows people to create assets for game that are interoperable.
@@ -32,9 +33,34 @@ Please treat this as a social experiment where we can learn, experiment, build, 
 - Useful as a way to onboard as a NOOB.
 - Routes some funds to Gitcoin for public goods funding
 - Affordable to start, but lets people level up to get more skin in the game.
+- What are Tokenomics?
+- 2D or 3D?
 
 ## Story
 
 We need a way to allow degens to gamble on online fighitng games for social good!
 
 Some of the funds will go to public goods funding. A good portion of it will go to token holders.
+
+## What can we copy from other games?
+
+- https://whitepaper.roosterbattle.net/english-whitepaper/technical-information
+- https://whitepaper.axieinfinity.com/
+- https://drive.google.com/file/d/1soo-eAaJHzhw_XhFGMJp3VNcQoM43byS/view
+
+## Technicals
+
+- JavaScript engines for considerations: Phaser 3, p5JS, three.js, BabylonJS
+
+# Tokenomics
+
+Considerations:
+
+- Inflations rewards or fixed supply?
+- Marketing and AirDrops
+- Staking
+- Play to Earn
+- Core Team & Development
+- Mint fees? What are these
+-
+- How to break down in percentages
